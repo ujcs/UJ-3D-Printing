@@ -1,18 +1,4 @@
-# UJ-3D-Printing
-Repository for guides and information pertaining to 3D printing at UJ.
+# UJ-3D-Printing File Repository
+Repository for files building or contributing to the 3D printer help site.
 
-## How-to-Guides
-
-- Information on this
-
-## Tips and Tricks
-
-- Information on this
-
-## Materials Needed
-
-- Information on this
-
-## Requesting Help
-
-- Information on this
+Visit the site at: http://3d.barnard.phd 
