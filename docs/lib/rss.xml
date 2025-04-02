@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-vault-uj3d]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian-vault-uj3d</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 02 Apr 2025 20:37:49 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 02 Apr 2025 20:37:48 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
+ ]]></description><link>how-to-guides\getting-started.html</link><guid isPermaLink="false">How-to-Guides/Getting started.md</guid><pubDate>Wed, 02 Apr 2025 20:30:29 GMT</pubDate></item><item><title><![CDATA[What do I need to get]]></title><description><![CDATA[ 
+ ]]></description><link>materials-needed\what-do-i-need-to-get.html</link><guid isPermaLink="false">Materials Needed/What do I need to get.md</guid><pubDate>Wed, 02 Apr 2025 20:31:14 GMT</pubDate></item><item><title><![CDATA[Help resources]]></title><description><![CDATA[ 
+ ]]></description><link>requesting-help\help-resources.html</link><guid isPermaLink="false">Requesting Help/Help resources.md</guid><pubDate>Wed, 02 Apr 2025 20:31:53 GMT</pubDate></item><item><title><![CDATA[What to watch for when printing]]></title><description><![CDATA[ 
+ ]]></description><link>tips-and-tricks\what-to-watch-for-when-printing.html</link><guid isPermaLink="false">Tips and Tricks/What to watch for when printing.md</guid><pubDate>Wed, 02 Apr 2025 20:30:55 GMT</pubDate></item><item><title><![CDATA[UJ-3D-Printing]]></title><description><![CDATA[ 
+ <br><br>Repository for guides and information pertaining to 3D printing at UJ.<br><br>
+<br>Information on this
+<br><br>
+<br>Information on this
+<br><br>
+<br>Information on this
+<br><br>
+<br>Information on this
+]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Wed, 02 Apr 2025 20:30:12 GMT</pubDate></item><item><title><![CDATA[Testing Adding a Top Level Page]]></title><description><![CDATA[ 
+ <br><br>Testing adding a top level page to the repository.<br>
+<br>Guides and whatnot
+<br>Back to <a class="internal-link" data-href="README.md" href="readme.html" target="_self" rel="noopener nofollow">home</a>]]></description><link>test-add.html</link><guid isPermaLink="false">test-add.md</guid><pubDate>Wed, 02 Apr 2025 20:06:00 GMT</pubDate></item></channel></rss>
