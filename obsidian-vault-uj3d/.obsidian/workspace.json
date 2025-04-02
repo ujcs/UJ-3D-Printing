@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-add.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-add"
+              "title": "Index"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
             }
           }
         ],
@@ -227,54 +227,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "4e467fa3088a8212",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f537b35d026f59b1",
-        "type": "window",
-        "children": [
-          {
-            "id": "46205e7cb326c8ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e3533be998eae7dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "test-add.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "test-add"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 892,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "d98562656da6a45f",
   "lastOpenFiles": [
-    "test-add.md",
     "Tips and Tricks/What to watch for when printing.md",
     "Requesting Help/Help resources.md",
-    "How-to-Guides/Getting started.md",
-    "README.md",
-    "Requesting Help",
     "Materials Needed/What do I need to get.md",
+    "Index.md",
+    "test-add.md",
+    "How-to-Guides/Getting started.md",
+    "Requesting Help",
     "Materials Needed",
     "Tips and Tricks",
     "How-to-Guides",
