@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips and Tricks/What to watch for when printing.md",
+                "file": "03 - Tips and Tricks/What to watch for when printing.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials Needed/What is supplied.md",
+                "file": "02 - Materials Needed/What is supplied.md",
                 "mode": "source",
                 "source": false
               },
@@ -271,19 +271,20 @@
   },
   "active": "01b77fb9b24ccf11",
   "lastOpenFiles": [
-    "Tips and Tricks/What to watch for when printing.md",
-    "Tips and Tricks/Printing with Multiple Colors.md",
-    "Tips and Tricks/Nozzle Selection and Hotend Swap.md",
-    "Requesting Help/Help resources.md",
-    "Materials Needed/What is supplied.md",
-    "Materials Needed/What do I need to get.md",
+    "04 - Requesting Help/Help resources.md",
+    "03 - Tips and Tricks/What to watch for when printing.md",
+    "03 - Tips and Tricks/Printing with Multiple Colors.md",
+    "03 - Tips and Tricks/Nozzle Selection and Hotend Swap.md",
+    "02 - Materials Needed/What is supplied.md",
+    "02 - Materials Needed/What do I need to get.md",
     "Index.md",
-    "How-to-Guides/Getting started.md",
+    "05 - Example Projects",
+    "01 - How-to-Guides/Getting started.md",
     "test-add.md",
-    "Requesting Help",
-    "Materials Needed",
-    "Tips and Tricks",
-    "How-to-Guides",
+    "04 - Requesting Help",
+    "02 - Materials Needed",
+    "03 - Tips and Tricks",
+    "01 - How-to-Guides",
     "desktop.ini",
     "Welcome.md"
   ]

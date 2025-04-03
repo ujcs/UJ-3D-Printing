@@ -46,10 +46,10 @@
   "exportPath": "C:\\\\Users\\jakob.barnard\\OneDrive - University of Jamestown\\Documents\\GitHub\\UJ-3D-Printing\\docs",
   "filesToExport": [
     [
-      "How-to-Guides",
-      "Materials Needed",
-      "Requesting Help",
-      "Tips and Tricks",
+      "01 - How-to-Guides",
+      "02 - Materials Needed",
+      "04 - Requesting Help",
+      "03 - Tips and Tricks",
       "Index.md"
     ]
   ]
