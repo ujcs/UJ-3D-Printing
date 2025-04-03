@@ -45,6 +45,12 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\jakob.barnard\\OneDrive - University of Jamestown\\Documents\\GitHub\\UJ-3D-Printing\\docs",
   "filesToExport": [
-    []
+    [
+      "How-to-Guides",
+      "Materials Needed",
+      "Requesting Help",
+      "Tips and Tricks",
+      "Index.md"
+    ]
   ]
 }
