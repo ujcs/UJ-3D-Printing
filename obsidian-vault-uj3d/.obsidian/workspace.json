@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips and Tricks/Printing with Multiple Colors.md",
+                "file": "Tips and Tricks/Nozzle Selection and Hotend Swap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Printing with Multiple Colors"
+              "title": "Nozzle Selection and Hotend Swap"
             }
           }
         ],
@@ -271,9 +271,9 @@
   },
   "active": "01b77fb9b24ccf11",
   "lastOpenFiles": [
-    "Tips and Tricks/What to watch for when printing.md",
     "Tips and Tricks/Printing with Multiple Colors.md",
-    "Tips and Tricks/Nozzle Selection and Swap.md",
+    "Tips and Tricks/What to watch for when printing.md",
+    "Tips and Tricks/Nozzle Selection and Hotend Swap.md",
     "Materials Needed/What is supplied.md",
     "Index.md",
     "Requesting Help/Help resources.md",
