@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 13:49:40 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 13:49:39 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 14:10:37 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 14:10:36 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -30,8 +30,8 @@
 
 
 ]]></description><link>http://3d.barnard.phd/02-materials-needed/what-is-supplied.html</link><guid isPermaLink="false">02 - Materials Needed/What is supplied.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 12:57:31 GMT</pubDate></item><item><title><![CDATA[Nozzle Selection and Hotend Swap]]></title><description><![CDATA[ 
- <br>The default nozzle is 0.4mm in side.<br>
-<br>*This seems to work for most. One example of printing a card tray, with no fine details, switching from .04mm to .06mm would reduce print time from 4hr 1min to 3hrs 36min with no decernable difference in quality. You can test different nozzle impacts prior to actually changing.
+ <br>The default nozzle is 0.4mm (this works for most things).<br>
+<br>*This seems to work for most. One example of printing a card tray, with no fine details, switching from .04mm to .06mm would reduce print time from 4hr 1min to 3hrs 36min with no discernable difference in quality. You can test different nozzle impacts prior to actually changing.
 <br>Nozzle sizes available for the Bambu X1C Printer:<br>
 <br>0.2mm hotend
 
@@ -41,7 +41,21 @@
 <br>0.4mm (default, spare nozzle on hand)
 <br>0.6mm hotend
 <br>0.8mm hotend
-]]></description><link>http://3d.barnard.phd/03-tips-and-tricks/nozzle-selection-and-hotend-swap.html</link><guid isPermaLink="false">03 - Tips and Tricks/Nozzle Selection and Hotend Swap.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:09:58 GMT</pubDate></item><item><title><![CDATA[Printing with Multiple Colors]]></title><description><![CDATA[ 
+<br>You decided you do need to swap the Nozzle - here are the steps and links to videos demonstrating how to do it:<br>
+<br>Swapping the Bambu Carbon X1C hotend: <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=-f8XW8zZSRo" target="_blank">https://www.youtube.com/watch?v=-f8XW8zZSRo</a> (Note both videos will give you the idea, both also include a nozzle replacement, which you shouldn't have to do, just swap the complete hotend for the desired size.)
+
+<br>Take off cover from hotend (magnets hold it there)
+<br>Remove 2 screws holding it in place and pull down
+
+<br>The wrench for this will be in the parts box. 
+
+
+<br>Remove 3 plugs holding it in place (carefully)
+<br>Place new nozzle and reverse the above process
+
+
+<br>Replacing the nozzle on the hotend (shouldn't have to do this) <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=WA-bvOE72GE" target="_blank">https://www.youtube.com/watch?v=WA-bvOE72GE</a>
+]]></description><link>http://3d.barnard.phd/03-tips-and-tricks/nozzle-selection-and-hotend-swap.html</link><guid isPermaLink="false">03 - Tips and Tricks/Nozzle Selection and Hotend Swap.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 14:06:26 GMT</pubDate></item><item><title><![CDATA[Printing with Multiple Colors]]></title><description><![CDATA[ 
  <br>With the AMS it is quick and easy to print with multiple colors! Make sure you have considered the following before designing and printing in multiple colors:<br>
 <br>Am I going to paint this?
 
