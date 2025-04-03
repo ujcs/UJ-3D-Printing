@@ -76,9 +76,51 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "7e933f05ac2b7a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips and Tricks/What to watch for when printing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What to watch for when printing"
+            }
+          },
+          {
+            "id": "e0e5e7f2b5e0c9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials Needed/What is supplied.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is supplied"
+            }
+          },
+          {
+            "id": "01b77fb9b24ccf11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips and Tricks/Printing with Multiple Colors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Printing with Multiple Colors"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -227,12 +269,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98562656da6a45f",
+  "active": "01b77fb9b24ccf11",
   "lastOpenFiles": [
     "Tips and Tricks/What to watch for when printing.md",
+    "Tips and Tricks/Printing with Multiple Colors.md",
+    "Materials Needed/What is supplied.md",
+    "Tips and Tricks/Nozzle Selection and Swap.md",
+    "Index.md",
     "Requesting Help/Help resources.md",
     "Materials Needed/What do I need to get.md",
-    "Index.md",
     "test-add.md",
     "How-to-Guides/Getting started.md",
     "Requesting Help",
