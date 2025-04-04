@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 18:18:24 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 18:18:23 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Apr 2025 14:19:13 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Apr 2025 14:19:12 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -99,7 +99,7 @@
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
 ]]></description><link>http://3d.barnard.phd/05-example-projects/05.01-project-index.html</link><guid isPermaLink="false">05 - Example Projects/05.01 - Project Index.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 15:00:38 GMT</pubDate></item><item><title><![CDATA[05.02 - Dr. B Demo Prints]]></title><description><![CDATA[ 
- <br>Dr. B's demo prints:<br>
+ <br><br>
 <br>While some were printed with UJ Dept filament, most were printed with filament purchasing as I didn't want to use up all of the "small project" filament for folks! It doesn't seem like most of these use a lot, but it does add up!
 <br>I only used the PLA Filament type ordered from Bambu directly.
 
@@ -129,57 +129,91 @@
 
 
 
-<br>Project 1 - Dice Case<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 2 - Card Box<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 3 - Miniatures<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 4 - Dice Tower<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 5 - Board Game Box Insert<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 6 - Travel Yahtzee and Mini's<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 7 - Mini Ships and Battle Armadillo<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 8 - Pokémon Booster Pack Dispenser<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 9 - Card Sorting Tray<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br>Project 10 - Tintin Space Rocket<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 18:05:36 GMT</pubDate></item><item><title><![CDATA[UJ 3D Printing Lab Wiki]]></title><description><![CDATA[ 
+<br><br>
+<br>Description
+
+<br>A silly little bench for a dice jail. Example had shown that it could be painted. I also was looking for a project to utilize the "wood" colored filament to demo.
+
+
+<br>Link to image(s)
+<br>Link to STL files (if publicly available)
+
+<br>Tintin-style rocket from Bambu Online Models
+
+
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>The biggest observation with this one is that thin structures can be risky. The top part of the bench broke removing tree supports and the bottom middle leg also broke. These were easily repaired with superglue, but demonstrated the inherent risk with finer shapes like this. It had also finished around midnight, so supports weren't attempted to be removed till 9 hours later - well behind the 2hr max recommendation.
+
+<br>So consider supports, ability to remove, and shape!
+
+
+
+
+<br>Project 12 - Tintin Space Rocket<br>
+<br>Description
+<br>Link to image(s)
+
+<br>Timelapse: 
+
+
+<br>Link to STL files (if publicly available)
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>Main element being demonstrated here is a multipart print. It utilizes 4 plates, so has 4 different print runs. This needed to consider timing (to remove pieces from printer, clean plate, gluestick, and start next plate), filament colors, etc.
+
+
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Fri, 04 Apr 2025 14:19:04 GMT</pubDate></item><item><title><![CDATA[UJ 3D Printing Lab Wiki]]></title><description><![CDATA[ 
  <br><br>This is the landing page for the University of Jamestown's CDC (Computing, Design, and Communication) 3D Printing Lab.<br><br>This wiki style site will likely always be a work in progress, but you can help! <br>Feel free to submit suggestions, write-ups, discoveries, etc., to a department faculty member.<br>
 - If you are familiar with Github (or wish to learn it, which is a great idea anyways), <a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/" target="_blank">go to our repository</a>!<br>
 - Wiki is maintained using Obsidian and a plugin that exports the site to HTML, however, that doesn't mean you need to learn or use any of those tools! Everything is stored in Markdown format - so individual files can be updated directly in the "<a data-tooltip-position="top" aria-label="https://obsidian.md/" rel="noopener nofollow" class="external-link" href="https://obsidian.md/" target="_blank">Obsidian Vault</a>," and then pull in when I integrate changes and repush the site to Github!<br>When in doubt, send a note to one of the faculty members and we will get you pointed in the right direction]]></description><link>http://3d.barnard.phd/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:46:56 GMT</pubDate></item></channel></rss>
