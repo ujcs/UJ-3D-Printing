@@ -11,10 +11,14 @@
             "id": "fa6fb3994946169c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05 - Example Projects/05.02 - Dr. B Demo Prints.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "05.02 - Dr. B Demo Prints"
             }
           }
         ]
