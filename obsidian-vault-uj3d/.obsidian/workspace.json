@@ -13,6 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 - How-to-Guides/Getting started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Getting started"
+            }
+          },
+          {
+            "id": "ecfa06626e3fbd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Example Projects/05.01 - Project Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.01 - Project Template"
+            }
+          },
+          {
+            "id": "b55db5b3e548760f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - How-to-Guides/How to reference videos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to reference videos"
+            }
+          },
+          {
+            "id": "53f644cfb9e15cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "05 - Example Projects/05.02 - Dr. B Demo Prints.md",
                 "mode": "source",
                 "source": false
@@ -161,7 +203,8 @@
               "title": "05.02 - Dr. B Demo Prints"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -348,25 +391,25 @@
         "zoom": 0
       },
       {
-        "id": "e46776aff348ecb4",
+        "id": "fb828f4a7518b9c8",
         "type": "window",
         "children": [
           {
-            "id": "30d947f0ad509adf",
+            "id": "bcb4f9ace0ad6d49",
             "type": "tabs",
             "children": [
               {
-                "id": "b0e3eb51597545f6",
+                "id": "51527b5fb3bdab9b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "03 - Tips and Tricks/What to watch for when printing.md",
+                    "file": "05 - Example Projects/05.03 - Student Projects.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "What to watch for when printing"
+                  "title": "05.03 - Student Projects"
                 }
               }
             ]
@@ -382,19 +425,22 @@
       }
     ]
   },
-  "active": "b0e3eb51597545f6",
+  "active": "51527b5fb3bdab9b",
   "lastOpenFiles": [
+    "05 - Example Projects/05.02 - Dr. B Demo Prints.md",
+    "05 - Example Projects/05.01 - Project Template.md",
+    "04 - Requesting Help/Help resources.md",
+    "03 - Tips and Tricks/What to watch for when printing.md",
     "03 - Tips and Tricks/Printing with Multiple Colors.md",
     "03 - Tips and Tricks/Nozzle Selection and Hotend Swap.md",
     "02 - Materials Needed/02.03 - Timelapse Video.md",
     "02 - Materials Needed/02.02 - What do I need to get.md",
-    "01 - How-to-Guides/Getting started.md",
-    "05 - Example Projects/05.02 - Dr. B Demo Prints.md",
-    "Index.md",
-    "05 - Example Projects/05.01 - Project Index.md",
-    "04 - Requesting Help/Help resources.md",
-    "03 - Tips and Tricks/What to watch for when printing.md",
     "02 - Materials Needed/02.01 - What is supplied.md",
+    "01 - How-to-Guides/How to reference videos.md",
+    "Index.md",
+    "05 - Example Projects/05.03 - Student Projects.md",
+    "03.04 - LAN Mode on Printer.md",
+    "01 - How-to-Guides/Getting started.md",
     "Untitled",
     "05 - Example Projects",
     "test-add.md",

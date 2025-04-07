@@ -1,0 +1,6 @@
+- [Loading filament in the Bambu AMS](https://www.youtube.com/shorts/Zkqh_z94Nk4)
+- Swapping Hotends (UJ has multiple sizes, default .4 seems to work for "most")
+	- See page on [[Nozzle Selection and Hotend Swap]]
+- Periodic Maintenance on the Bambu X1C
+	- [Periodic Maintenance Recommendations for X1C](https://www.youtube.com/watch?v=CxubmTN1Srs)
+	- [Top Bambu Maintenance Steps you MUST Do!](https://www.youtube.com/watch?v=OGBqoPyUdLE) (Overlap, but good reference.)

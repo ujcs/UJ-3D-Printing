@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 15:27:35 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 15:27:33 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 16:16:45 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 16:16:44 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -6,7 +6,7 @@
 <br><br>
 <br>Take a look at demo's that have been printed on the computer using a variety of shapes, sizes, techniques, nozzles, purpose, etc.
 <br>If you are familiar with Github, feel free to add your own with a pull request on the <a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/" target="_blank">UJ-3D-Printing repository</a>!
-<br>Bambu Studio:<br>
+<br><br>
 <br>Download link: <a rel="noopener nofollow" class="external-link" href="https://bambulab.com/en/download/studio" target="_blank">https://bambulab.com/en/download/studio</a>
 
 <br>Should be installed on the "Majors Lab" computers
@@ -18,7 +18,45 @@
 
 
 <br>You can add your own print files, find online models using the studio or externally, etc.
-]]></description><link>http://3d.barnard.phd/01-how-to-guides/getting-started.html</link><guid isPermaLink="false">01 - How-to-Guides/Getting started.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:36:36 GMT</pubDate></item><item><title><![CDATA[02.01 - What is supplied]]></title><description><![CDATA[ 
+<br>
+NOTE - Updating and Refining software instructions is key next portion of guide<br>
+You can print directly from a memory card in the printer and skip most of these notes.
+<br><br>
+<br>Utilizing Bambu Studio, set up your print!
+
+<br><a data-href="02.01 - What is supplied" href="http://3d.barnard.phd/02-materials-needed/02.01-what-is-supplied.html" class="internal-link" target="_self" rel="noopener nofollow">02.01 - What is supplied</a>
+<br><a data-href="02.02 - What do I need to get" href="http://3d.barnard.phd/02-materials-needed/02.02-what-do-i-need-to-get.html" class="internal-link" target="_self" rel="noopener nofollow">02.02 - What do I need to get</a>
+
+
+<br>Make sure to use the glue stick on the chosen plate
+<br>Print - make note of estimated completion time
+
+<br>The estimates are pretty accurate.
+<br>Plate changes are not automatic and often print one at a time sort of thing.
+
+
+<br>Check back in and clean up once done
+
+<br>Wash any residual glue off of plate
+<br>Clean up any excess filament 
+<br>Let a faculty know if there were any issues, running low on filament, leaving any personal filament, need additional time, etc.
+
+
+]]></description><link>http://3d.barnard.phd/01-how-to-guides/getting-started.html</link><guid isPermaLink="false">01 - How-to-Guides/Getting started.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:39:04 GMT</pubDate></item><item><title><![CDATA[How to reference videos]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/shorts/Zkqh_z94Nk4" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/Zkqh_z94Nk4" target="_blank">Loading filament in the Bambu AMS</a>
+<br>Swapping Hotends (UJ has multiple sizes, default .4 seems to work for "most")
+
+<br>See page on <a data-href="Nozzle Selection and Hotend Swap" href="http://3d.barnard.phd/03-tips-and-tricks/nozzle-selection-and-hotend-swap.html" class="internal-link" target="_self" rel="noopener nofollow">Nozzle Selection and Hotend Swap</a>
+
+
+<br>Periodic Maintenance on the Bambu X1C
+
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=CxubmTN1Srs" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=CxubmTN1Srs" target="_blank">Periodic Maintenance Recommendations for X1C</a>
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=OGBqoPyUdLE" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=OGBqoPyUdLE" target="_blank">Top Bambu Maintenance Steps you MUST Do!</a> (Overlap, but good reference.)
+
+
+]]></description><link>http://3d.barnard.phd/01-how-to-guides/how-to-reference-videos.html</link><guid isPermaLink="false">01 - How-to-Guides/How to reference videos.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:47:45 GMT</pubDate></item><item><title><![CDATA[02.01 - What is supplied]]></title><description><![CDATA[ 
  <br>The printer, the rest we will try to keep some on hand, but if planning to print larger pieces (or dense - using a lot of filament), please ask or purchase your own. (Or see if we can purchase it for you and work with the business office.)<br>We will keep the following on-hand as general use:<br>
 <br>Spare parts/nozzles/grease
 <br>Smooth and textured plates for printing on
@@ -47,7 +85,9 @@
 <br>Micro SD Card<br>
 <br>You may want a Micro SD Card to use for printing files, or saving Timelapse videos of your 3D prints.
 ]]></description><link>http://3d.barnard.phd/02-materials-needed/02.02-what-do-i-need-to-get.html</link><guid isPermaLink="false">02 - Materials Needed/02.02 - What do I need to get.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 18:17:50 GMT</pubDate></item><item><title><![CDATA[02.03 - Timelapse Video]]></title><description><![CDATA[ 
- <br>At this time, there is not a Micro SD Card installed to record timelapse video, but I hope to track one down and get it installed soon. You may want to get your own to bring STL files back and forth (you can load and print via the SD Card and skip Bambu Studio) and then to save your timelapse video of your print elsewhere.]]></description><link>http://3d.barnard.phd/02-materials-needed/02.03-timelapse-video.html</link><guid isPermaLink="false">02 - Materials Needed/02.03 - Timelapse Video.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 18:17:03 GMT</pubDate></item><item><title><![CDATA[Nozzle Selection and Hotend Swap]]></title><description><![CDATA[ 
+ <br>At this time, there is not a Micro SD Card installed to record timelapse video, but I hope to track one down and get it installed soon. You may want to get your own to bring STL files back and forth (you can load and print via the SD Card and skip Bambu Studio) and then to save your timelapse video of your print elsewhere.<br>
+<br>Looking for examples? Check out <a data-href="05.02 - Dr. B Demo Prints" href="http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html" class="internal-link" target="_self" rel="noopener nofollow">05.02 - Dr. B Demo Prints</a> and look for links to various timelapse videos of demo projects.
+]]></description><link>http://3d.barnard.phd/02-materials-needed/02.03-timelapse-video.html</link><guid isPermaLink="false">02 - Materials Needed/02.03 - Timelapse Video.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:41:18 GMT</pubDate></item><item><title><![CDATA[Nozzle Selection and Hotend Swap]]></title><description><![CDATA[ 
  <br>The default nozzle is 0.4mm (this works for most things).<br>
 <br>*This seems to work for most. One example of printing a card tray, with no fine details, switching from .04mm to .06mm would reduce print time from 4hr 1min to 3hrs 36min with no discernable difference in quality. You can test different nozzle impacts prior to actually changing.
 <br>Nozzle sizes available for the Bambu X1C Printer:<br>
@@ -92,13 +132,13 @@
 
 ]]></description><link>http://3d.barnard.phd/03-tips-and-tricks/printing-with-multiple-colors.html</link><guid isPermaLink="false">03 - Tips and Tricks/Printing with Multiple Colors.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:05:17 GMT</pubDate></item><item><title><![CDATA[What to watch for when printing]]></title><description><![CDATA[ 
  <br>Speed<br>Quality <br>Sparse Infill percent and pattern]]></description><link>http://3d.barnard.phd/03-tips-and-tricks/what-to-watch-for-when-printing.html</link><guid isPermaLink="false">03 - Tips and Tricks/What to watch for when printing.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 12:53:51 GMT</pubDate></item><item><title><![CDATA[Help resources]]></title><description><![CDATA[ 
- ]]></description><link>http://3d.barnard.phd/04-requesting-help/help-resources.html</link><guid isPermaLink="false">04 - Requesting Help/Help resources.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Wed, 02 Apr 2025 20:31:53 GMT</pubDate></item><item><title><![CDATA[05.01 - Project Index]]></title><description><![CDATA[ 
+ ]]></description><link>http://3d.barnard.phd/04-requesting-help/help-resources.html</link><guid isPermaLink="false">04 - Requesting Help/Help resources.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Wed, 02 Apr 2025 20:31:53 GMT</pubDate></item><item><title><![CDATA[05.01 - Project Template]]></title><description><![CDATA[ 
  <br>Projects that have been printed on the 3D Printer here. Ideas to include:<br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-]]></description><link>http://3d.barnard.phd/05-example-projects/05.01-project-index.html</link><guid isPermaLink="false">05 - Example Projects/05.01 - Project Index.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 15:00:38 GMT</pubDate></item><item><title><![CDATA[05.02 - Dr. B Demo Prints]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.01-project-template.html</link><guid isPermaLink="false">05 - Example Projects/05.01 - Project Template.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 15:00:38 GMT</pubDate></item><item><title><![CDATA[05.02 - Dr. B Demo Prints]]></title><description><![CDATA[ 
  <br><br>
 <br>While some were printed with UJ Dept filament, most were printed with filament purchasing as I didn't want to use up all of the "small project" filament for folks! It doesn't seem like most of these use a lot, but it does add up!
 <br>I only used the PLA Filament type ordered from Bambu directly.
@@ -234,7 +274,13 @@
 <br>Pieces fit together fairly well, but utilized some superglue to enhance stability in case of getting bumped.
 
 
-]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:27:06 GMT</pubDate></item><item><title><![CDATA[UJ 3D Printing Lab Wiki]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:27:06 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
+ <br>Forthcoming!<br>Projects that have been printed on the 3D Printer here. Ideas to include:<br>
+<br>Description
+<br>Link to image(s)
+<br>Link to STL files (if publicly available)
+<br>Notes/Observations/Settings/Lessons Learned
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.03-student-projects.html</link><guid isPermaLink="false">05 - Example Projects/05.03 - Student Projects.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:42:00 GMT</pubDate></item><item><title><![CDATA[UJ 3D Printing Lab Wiki]]></title><description><![CDATA[ 
  <br><br>This is the landing page for the University of Jamestown's CDC (Computing, Design, and Communication) 3D Printing Lab.<br><br>This wiki style site will likely always be a work in progress, but you can help! <br>Feel free to submit suggestions, write-ups, discoveries, etc., to a department faculty member.<br>
 - If you are familiar with Github (or wish to learn it, which is a great idea anyways), <a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/" target="_blank">go to our repository</a>!<br>
 - Wiki is maintained using Obsidian and a plugin that exports the site to HTML, however, that doesn't mean you need to learn or use any of those tools! Everything is stored in Markdown format - so individual files can be updated directly in the "<a data-tooltip-position="top" aria-label="https://obsidian.md/" rel="noopener nofollow" class="external-link" href="https://obsidian.md/" target="_blank">Obsidian Vault</a>," and then pull in when I integrate changes and repush the site to Github!<br>When in doubt, send a note to one of the faculty members and we will get you pointed in the right direction]]></description><link>http://3d.barnard.phd/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:46:56 GMT</pubDate></item></channel></rss>
