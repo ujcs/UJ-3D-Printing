@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 16:51:43 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 16:51:42 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 16:57:32 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 16:57:30 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -178,9 +178,13 @@ You can print directly from a memory card in the printer and skip most of these 
 <br>We are still working out how to best "stock" or allow usage of filament. How much should just be accepted as cost of running, when to tell folks they need to order, contribute to cost, etc.
 
 
+
+
 <br>PLA Galaxy Nebula
 
 <br>Liked the color and effect, but glitter higher risk of clogs so didn't use anything smaller than the .4mm nozzle.
+
+
 
 
 <br>PLA Red
@@ -192,7 +196,7 @@ You can print directly from a memory card in the printer and skip most of these 
 
 
 
-<br><br>
+<br>With the demo projects, I aimed to use a variety of shapes, length of prints, fine detail vs larger assembled, etc. Much of what I printed also was able to be used for an additional purpose, so mostly used my own filament as to not use too much of the department stock.<br><br>
 <br>Description
 <br>Link to image(s)
 <br>Link to STL files (if publicly available)
@@ -297,7 +301,7 @@ You can print directly from a memory card in the printer and skip most of these 
 <br>Pieces fit together fairly well, but utilized some superglue to enhance stability in case of getting bumped.
 
 
-]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 15:27:06 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 16:57:10 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
  <br>Forthcoming!<br>Projects that have been printed on the 3D Printer here. Ideas to include:<br>
 <br>Description
 <br>Link to image(s)
