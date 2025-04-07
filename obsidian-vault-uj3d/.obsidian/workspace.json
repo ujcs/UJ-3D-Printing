@@ -170,24 +170,64 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6fb3994946169c",
+  "floating": {
+    "id": "4e467fa3088a8212",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0ea05000d3bb796f",
+        "type": "window",
+        "children": [
+          {
+            "id": "724e0370170cf40e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48aac2e686d1474d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Example Projects/05.03 - Student Projects.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.03 - Student Projects"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 914,
+        "width": 800,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "48aac2e686d1474d",
   "lastOpenFiles": [
-    "01 - How-to-Guides/01.01 - Getting started.md",
-    "05 - Example Projects/05.01 - Project Template.md",
     "05 - Example Projects/05.02 - Dr. B Demo Prints.md",
-    "02 - Materials Needed/02.01 - What is supplied.md",
-    "Index.md",
-    "03 - Tips and Tricks/03.01 - How to reference videos.md",
-    "01 - How-to-Guides/01.03 - Start Printing.md",
-    "01 - How-to-Guides/01.02 - Bambu Studio.md",
-    "05 - Example Projects/05.03 - Student Projects.md",
+    "05 - Example Projects/05.01 - Project Template.md",
     "04 - Requesting Help/04.01 - Help resources.md",
     "03 - Tips and Tricks/03.05 - What to watch for when printing.md",
     "03 - Tips and Tricks/03.04 - LAN Mode on Printer.md",
     "03 - Tips and Tricks/03.03 - Printing with Multiple Colors.md",
     "03 - Tips and Tricks/03.02 - Nozzle Selection and Hotend Swap.md",
+    "03 - Tips and Tricks/03.01 - How to reference videos.md",
     "02 - Materials Needed/02.03 - Timelapse Videos.md",
     "02 - Materials Needed/02.02 - What do I need to get.md",
+    "02 - Materials Needed/02.01 - What is supplied.md",
+    "01 - How-to-Guides/01.03 - Start Printing.md",
+    "01 - How-to-Guides/01.02 - Bambu Studio.md",
+    "().md",
+    "01 - How-to-Guides/01.01 - Getting started.md",
+    "Index.md",
+    "05 - Example Projects/05.03 - Student Projects.md",
     "Untitled",
     "05 - Example Projects",
     "test-add.md",

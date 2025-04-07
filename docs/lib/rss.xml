@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 19:43:29 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 19:43:28 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 20:34:24 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 20:34:23 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -39,7 +39,11 @@
 
 
 <br>You can add your own print files, find online models using the studio or externally, etc.
-]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.02-bambu-studio.html</link><guid isPermaLink="false">01 - How-to-Guides/01.02 - Bambu Studio.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 19:36:14 GMT</pubDate></item><item><title><![CDATA[01.03 - Start Printing]]></title><description><![CDATA[ 
+
+<br>File Open Project or File Import existing files.
+
+
+]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.02-bambu-studio.html</link><guid isPermaLink="false">01 - How-to-Guides/01.02 - Bambu Studio.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 19:50:09 GMT</pubDate></item><item><title><![CDATA[01.03 - Start Printing]]></title><description><![CDATA[ 
  <br><br>
 <br>Utilizing Bambu Studio, set up your print!
 
@@ -203,9 +207,50 @@
 
 <br>With the demo projects, I aimed to use a variety of shapes, length of prints, fine detail vs larger assembled, etc. Much of what I printed also was able to be used for an additional purpose, so mostly used my own filament as to not use too much of the department stock.<br><br>
 <br>Description
+
+<br>Hex design case to hold 7 ttrpg dice (DnD dice) demonstrating dual color usage with the AMS.
+
+
 <br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case1.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case1.JPG" target="_blank">Image 1</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case2.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case2.JPG" target="_blank">Image 2</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case3.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case3.jpg" target="_blank">Image 3</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case4.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_case4.jpg" target="_blank">Image 4</a>
+
+
 <br>Link to STL files (if publicly available)
+
+<br>Bambu online search will bring up a lot of dice cases
+
+
 <br>Notes/Observations/Settings/Lessons Learned
+
+<br>Surprisingly straightforward with no real issues. I duplicated the plate so I could print two at once, but that was the only change from the design downloaded.
+
+
+<br><br>
+<br>Description
+
+<br>Printing a Pokémon card box to demonstrate larger scale, mixing colors, thin walls with no supports.
+
+
+<br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/card_box1.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/card_box1.jpg" target="_blank">Card Box 1</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/card_box2.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/card_box2.JPG" target="_blank">Card Box 2</a>
+
+
+<br>Link to STL files (if publicly available)
+
+<br>Bambu online search will bring up a lot of versions.
+
+
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>Also straightforward with no major issues occuring.
+
+
 <br><br>
 <br>Description
 <br>Link to image(s)
@@ -213,39 +258,98 @@
 <br>Notes/Observations/Settings/Lessons Learned
 <br><br>
 <br>Description
+
+<br>A small collapsing dice tower for dice randomization. Two sections friction fit.
+
+
 <br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_tower.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/dice_tower.JPG" target="_blank">Dice Tower</a>
+
+
+<br>Link to STL files (if publicly available)
+
+<br>Downloaded from Bambu online search
+
+
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>Also duplicated to try printing two, learned about supports with this one.
+
+
+<br><br>
+<br>Description
+
+<br>Insert to organize the board game "Green Team Wins."
+
+
+<br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/game_insert.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/game_insert.jpg" target="_blank">Board game insert</a>
+
+
+<br>Link to STL files (if publicly available)
+
+<br>Searched for specific game via Bambu online
+
+
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>Seems to be a little hit or miss with board games as to what is available and the difficulty putting it together.
+
+
+<br><br>
+<br>Description
+<br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/yahtzee_box1.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/yahtzee_box1.JPG" target="_blank">Yahtzee 1</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/yahtzee_box2.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/yahtzee_box2.jpg" target="_blank">Yahtzee 2</a>
+
+
+<br>Link to STL files (if publicly available)
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>This was one of the first test prints. Most important lesson is that just because you have room on the plate, doesn't mean you should add something. The mini's needed far different settings (and the finer nozzle), so really didn't turn out well.
+
+
+<br><br>
+<br>Description
+<br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/battle_armadillos.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/battle_armadillos.JPG" target="_blank">Battle Armadillo</a>
+
+
+<br>Link to STL files (if publicly available)
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>Silly lil figure to test the .2 nozzle. The shape made it very difficult for the underside support removal, but was far more refined above.
+
+
+<br><br>
+<br>Description
+<br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/Mini_ship.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/Mini_ship.jpg" target="_blank">Mini Ship</a>
+
+
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
 <br><br>
 <br>Description
 <br>Link to image(s)
+
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/booster_pack1.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/booster_pack1.jpg" target="_blank">Booster Pack 1</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/booster_pack2.jpg" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/booster_pack2.jpg" target="_blank">Booster Pack 2</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/booster_pack3.JPG" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/booster_pack3.JPG" target="_blank">Booster Pack 3</a>
+
+
 <br>Link to STL files (if publicly available)
 <br>Notes/Observations/Settings/Lessons Learned
-<br><br>
-<br>Description
-<br>Link to image(s)
-<br>Link to STL files (if publicly available)
-<br>Notes/Observations/Settings/Lessons Learned
-<br><br>
-<br>Description
-<br>Link to image(s)
-<br>Link to STL files (if publicly available)
-<br>Notes/Observations/Settings/Lessons Learned
-<br><br>
-<br>Description
-<br>Link to image(s)
-<br>Link to STL files (if publicly available)
-<br>Notes/Observations/Settings/Lessons Learned
-<br><br>
-<br>Description
-<br>Link to image(s)
-<br>Link to STL files (if publicly available)
-<br>Notes/Observations/Settings/Lessons Learned
-<br><br>
-<br>Description
-<br>Link to image(s)
-<br>Link to STL files (if publicly available)
-<br>Notes/Observations/Settings/Lessons Learned
+
+<br>Preparing for summer incentives for my middle schooler who is getting into tournament play, stumbled across this design and thought it demonstrated a larger shape well, had supports, but the inset shape and taller walls would display techniques well.
+<br>No major issues printing.
+
+
 <br><br>
 <br>Description
 
@@ -261,7 +365,7 @@
 <br>Notes/Observations/Settings/Lessons Learned
 
 <br>With the large flat surface on the bed, glue stick application was extra important here to ensure good adhesion and setup of the first layer.
-<br>Ended up printing this multiple times as I had my personal filament supply and this design proved very helpful for helping my son sort his Pokémon cards.
+<br>Ended up printing this multiple (4) times as I had my personal filament supply and this design proved very helpful for helping my son sort his Pokémon cards.
 
 
 <br><br>
@@ -306,7 +410,7 @@
 <br>Pieces fit together fairly well, but utilized some superglue to enhance stability in case of getting bumped.
 
 
-]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 16:57:10 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 20:34:10 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
  <br>Forthcoming!<br>Projects that have been printed on the 3D Printer here. Ideas to include:<br>
 <br>Description
 <br>Link to image(s)
