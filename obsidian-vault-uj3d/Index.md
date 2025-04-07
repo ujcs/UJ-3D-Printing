@@ -9,4 +9,4 @@ Feel free to submit suggestions, write-ups, discoveries, etc., to a department f
 	- If you are familiar with Github (or wish to learn it, which is a great idea anyways), [go to our repository](https://github.com/ujcs/UJ-3D-Printing/)! 
 	- Wiki is maintained using Obsidian and a plugin that exports the site to HTML, however, that doesn't mean you need to learn or use any of those tools! Everything is stored in Markdown format - so individual files can be updated directly in the "[Obsidian Vault](https://obsidian.md/)," and then pull in when I integrate changes and repush the site to Github!
 
-*When in doubt, send a note to one of the faculty members and we will get you pointed in the right direction*
+*When in doubt, send a note to one of the faculty members and we will get you pointed in the right direction.*
