@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian Vault for UJ3D",
-  "lastExport": 1744043261736,
+  "lastExport": 1744043355084,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -13,11 +13,11 @@
     "02 - Materials Needed/02.02 - What do I need to get.md",
     "02 - Materials Needed/02.03 - Timelapse Video.md",
     "03 - Tips and Tricks/03.01 - How to reference videos.md",
+    "03 - Tips and Tricks/03.02 - Nozzle Selection and Hotend Swap.md",
+    "03 - Tips and Tricks/03.03 - Printing with Multiple Colors.md",
     "03 - Tips and Tricks/03.04 - LAN Mode on Printer.md",
-    "03 - Tips and Tricks/Nozzle Selection and Hotend Swap.md",
-    "03 - Tips and Tricks/Printing with Multiple Colors.md",
-    "03 - Tips and Tricks/What to watch for when printing.md",
-    "04 - Requesting Help/Help resources.md",
+    "03 - Tips and Tricks/03.05 - What to watch for when printing.md",
+    "04 - Requesting Help/04.01 - Help resources.md",
     "05 - Example Projects/05.01 - Project Template.md",
     "05 - Example Projects/05.02 - Dr. B Demo Prints.md",
     "05 - Example Projects/05.03 - Student Projects.md",
@@ -67,7 +67,7 @@
   ],
   "fileInfo": {
     "Index.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 1150,
       "exportedPath": "index.html",
       "dependencies": []
@@ -79,97 +79,97 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1744043261736,
-      "sourceSize": 9616,
+      "modifiedTime": 1744043355084,
+      "sourceSize": 9672,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -211,7 +211,7 @@
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -223,111 +223,111 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "03 - Tips and Tricks/Nozzle Selection and Hotend Swap.md": {
-      "modifiedTime": 1744043261736,
-      "sourceSize": 1334,
-      "exportedPath": "03-tips-and-tricks/nozzle-selection-and-hotend-swap.html",
-      "dependencies": []
-    },
-    "03 - Tips and Tricks/Printing with Multiple Colors.md": {
-      "modifiedTime": 1744043261736,
-      "sourceSize": 728,
-      "exportedPath": "03-tips-and-tricks/printing-with-multiple-colors.html",
-      "dependencies": []
-    },
-    "03 - Tips and Tricks/What to watch for when printing.md": {
-      "modifiedTime": 1744043261736,
-      "sourceSize": 52,
-      "exportedPath": "03-tips-and-tricks/what-to-watch-for-when-printing.html",
-      "dependencies": []
-    },
-    "04 - Requesting Help/Help resources.md": {
-      "modifiedTime": 1744043261736,
-      "sourceSize": 0,
-      "exportedPath": "04-requesting-help/help-resources.html",
-      "dependencies": []
-    },
     "05 - Example Projects/05.02 - Dr. B Demo Prints.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 5600,
       "exportedPath": "05-example-projects/05.02-dr.-b-demo-prints.html",
       "dependencies": []
     },
     "02 - Materials Needed/02.01 - What is supplied.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 667,
       "exportedPath": "02-materials-needed/02.01-what-is-supplied.html",
       "dependencies": []
     },
     "02 - Materials Needed/02.02 - What do I need to get.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 742,
       "exportedPath": "02-materials-needed/02.02-what-do-i-need-to-get.html",
       "dependencies": []
     },
     "02 - Materials Needed/02.03 - Timelapse Video.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 455,
       "exportedPath": "02-materials-needed/02.03-timelapse-video.html",
       "dependencies": []
     },
     "05 - Example Projects/05.01 - Project Template.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 200,
       "exportedPath": "05-example-projects/05.01-project-template.html",
       "dependencies": []
     },
     "05 - Example Projects/05.03 - Student Projects.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 210,
       "exportedPath": "05-example-projects/05.03-student-projects.html",
       "dependencies": []
     },
     "01 - How-to-Guides/01.01 - Getting started.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 853,
       "exportedPath": "01-how-to-guides/01.01-getting-started.html",
       "dependencies": []
     },
     "01 - How-to-Guides/01.02 - Bambu Studio.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 815,
       "exportedPath": "01-how-to-guides/01.02-bambu-studio.html",
       "dependencies": []
     },
     "01 - How-to-Guides/01.03 - Start Printing.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 605,
       "exportedPath": "01-how-to-guides/01.03-start-printing.html",
       "dependencies": []
     },
     "03 - Tips and Tricks/03.01 - How to reference videos.md": {
-      "modifiedTime": 1744043261736,
-      "sourceSize": 470,
+      "modifiedTime": 1744043355084,
+      "sourceSize": 478,
       "exportedPath": "03-tips-and-tricks/03.01-how-to-reference-videos.html",
       "dependencies": []
     },
     "03 - Tips and Tricks/03.04 - LAN Mode on Printer.md": {
-      "modifiedTime": 1744043261736,
+      "modifiedTime": 1744043355084,
       "sourceSize": 226,
       "exportedPath": "03-tips-and-tricks/03.04-lan-mode-on-printer.html",
+      "dependencies": []
+    },
+    "03 - Tips and Tricks/03.02 - Nozzle Selection and Hotend Swap.md": {
+      "modifiedTime": 1744043355084,
+      "sourceSize": 1334,
+      "exportedPath": "03-tips-and-tricks/03.02-nozzle-selection-and-hotend-swap.html",
+      "dependencies": []
+    },
+    "03 - Tips and Tricks/03.03 - Printing with Multiple Colors.md": {
+      "modifiedTime": 1744043355084,
+      "sourceSize": 728,
+      "exportedPath": "03-tips-and-tricks/03.03-printing-with-multiple-colors.html",
+      "dependencies": []
+    },
+    "03 - Tips and Tricks/03.05 - What to watch for when printing.md": {
+      "modifiedTime": 1744043355084,
+      "sourceSize": 52,
+      "exportedPath": "03-tips-and-tricks/03.05-what-to-watch-for-when-printing.html",
+      "dependencies": []
+    },
+    "04 - Requesting Help/04.01 - Help resources.md": {
+      "modifiedTime": 1744043355084,
+      "sourceSize": 0,
+      "exportedPath": "04-requesting-help/04.01-help-resources.html",
       "dependencies": []
     }
   }
