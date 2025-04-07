@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 16:57:32 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 16:57:30 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 19:43:29 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 19:43:28 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -22,9 +22,15 @@
 <br>Should be installed on the "Majors Lab" computers
 
 
-<br>3D Printer is set in LAN mode, so must be on UJ network and then should be able to "add printer" from within Bambu Studio.
+<br>3D Printer is bound to a shared login account (LAN mode with network settings wasn't playing nice).
 
-<br>Any additional instructions will be added here.
+<br>In Bambu Studio, you will need to log into the UJ Account:
+
+<br>Username and Password can be located underneath the QR code
+<br>This should periodically change. 
+<br>Make sure to log out once complete as I was not able to test the impact of multiple people accessing the printer via multiple mobile and desktop apps - I presume it is a great way to mess things up.
+
+
 
 
 <br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=8TQCRVS72Us&amp;list=PLFUVS59deIm2mawl3Zjk1XI9yp7H7955J" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=8TQCRVS72Us&amp;list=PLFUVS59deIm2mawl3Zjk1XI9yp7H7955J" target="_blank"> Bambu Labs Tutorial Series on Bambu Studio</a>
@@ -33,10 +39,7 @@
 
 
 <br>You can add your own print files, find online models using the studio or externally, etc.
-<br>
-NOTE - Updating and Refining software instructions is key next portion of guide<br>
-You can print directly from a memory card in the printer and skip most of these notes.
-]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.02-bambu-studio.html</link><guid isPermaLink="false">01 - How-to-Guides/01.02 - Bambu Studio.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 16:26:40 GMT</pubDate></item><item><title><![CDATA[01.03 - Start Printing]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.02-bambu-studio.html</link><guid isPermaLink="false">01 - How-to-Guides/01.02 - Bambu Studio.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 19:36:14 GMT</pubDate></item><item><title><![CDATA[01.03 - Start Printing]]></title><description><![CDATA[ 
  <br><br>
 <br>Utilizing Bambu Studio, set up your print!
 
@@ -49,6 +52,7 @@ You can print directly from a memory card in the printer and skip most of these 
 
 <br>The estimates are pretty accurate.
 <br>Plate changes are not automatic and often print one at a time sort of thing.
+<br>If logged into mobile app you can get completion time alerts, remote monitoring, etc. If it isn't your print, avoid doing this so you don't mess things up for someone else by accident!
 
 
 <br>Check back in and clean up once done
@@ -56,9 +60,10 @@ You can print directly from a memory card in the printer and skip most of these 
 <br>Wash any residual glue off of plate
 <br>Clean up any excess filament 
 <br>Let a faculty know if there were any issues, running low on filament, leaving any personal filament, need additional time, etc.
+<br>Log out of Desktop or Mobile app
 
 
-]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.03-start-printing.html</link><guid isPermaLink="false">01 - How-to-Guides/01.03 - Start Printing.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 16:26:12 GMT</pubDate></item><item><title><![CDATA[02.01 - What is supplied]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.03-start-printing.html</link><guid isPermaLink="false">01 - How-to-Guides/01.03 - Start Printing.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 19:40:07 GMT</pubDate></item><item><title><![CDATA[02.01 - What is supplied]]></title><description><![CDATA[ 
  <br>The printer, the rest we will try to keep some on hand, but if planning to print larger pieces (or dense - using a lot of filament), please ask or purchase your own. (Or see if we can purchase it for you and work with the business office.)<br>We will keep the following on-hand as general use:<br>
 <br>Spare parts/nozzles/grease
 <br>Smooth and textured plates for printing on
