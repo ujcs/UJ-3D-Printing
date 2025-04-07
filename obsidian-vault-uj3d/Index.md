@@ -1,7 +1,7 @@
 # UJ 3D Printing Lab Wiki
 *This is the landing page for the University of Jamestown's CDC (Computing, Design, and Communication) 3D Printing Lab.*
 
-### Unsure of where to start, but you went to this web address because you were sent a link, scanned a QR code, and want to use the 3D printer... start with the [[Getting started]] guide! 
+### Unsure of where to start, but you went to this web address because you were sent a link, scanned a QR code, and want to use the 3D printer... start with the [[01.01 - Getting started]] guide! 
 
 This wiki style site will likely always be a work in progress, but you can help! 
 
