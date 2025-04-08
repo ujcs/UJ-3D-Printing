@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Apr 2025 20:34:24 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Apr 2025 20:34:23 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 08 Apr 2025 15:53:19 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 08 Apr 2025 15:53:18 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -52,6 +52,14 @@
 
 
 <br>Make sure to use the glue stick on the chosen plate
+
+<br>In Bambu studio you would have chosen the type of plate, textured PEI or Smooth PEI are your options. (I typically used the textured unless I knowingly wanted a smooth surface.)
+
+<br>Plate is held down by magnets. Remove the plate, add glue stick (helps with removing print once done), place back on the bed, and go!
+
+
+
+
 <br>Print - make note of estimated completion time
 
 <br>The estimates are pretty accurate.
@@ -67,7 +75,7 @@
 <br>Log out of Desktop or Mobile app
 
 
-]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.03-start-printing.html</link><guid isPermaLink="false">01 - How-to-Guides/01.03 - Start Printing.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 19:40:07 GMT</pubDate></item><item><title><![CDATA[02.01 - What is supplied]]></title><description><![CDATA[ 
+]]></description><link>http://3d.barnard.phd/01-how-to-guides/01.03-start-printing.html</link><guid isPermaLink="false">01 - How-to-Guides/01.03 - Start Printing.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Tue, 08 Apr 2025 15:53:12 GMT</pubDate></item><item><title><![CDATA[02.01 - What is supplied]]></title><description><![CDATA[ 
  <br>The printer, the rest we will try to keep some on hand, but if planning to print larger pieces (or dense - using a lot of filament), please ask or purchase your own. (Or see if we can purchase it for you and work with the business office.)<br>We will keep the following on-hand as general use:<br>
 <br>Spare parts/nozzles/grease
 <br>Smooth and textured plates for printing on
