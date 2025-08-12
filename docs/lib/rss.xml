@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 08 Apr 2025 15:54:05 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 08 Apr 2025 15:54:04 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault for UJ3D]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://3d.barnard.phd/</link><image><url>http://3d.barnard.phd/lib/media/favicon.png</url><title>Obsidian Vault for UJ3D</title><link>http://3d.barnard.phd/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Aug 2025 13:26:27 GMT</lastBuildDate><atom:link href="http://3d.barnard.phd/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Aug 2025 13:26:26 GMT</pubDate><copyright><![CDATA[Dr. Jakob E. Barnard]]></copyright><ttl>60</ttl><dc:creator>Dr. Jakob E. Barnard</dc:creator><item><title><![CDATA[01.01 - Getting started]]></title><description><![CDATA[ 
  <br><br>
 <br>Setting up an outlook calendar event and adding a resource
 <br>Physical signup sheet (I suggest doing this as well as an indicator, and so if your print is done and you aren't around, and someone else needs to use, they quickly know who to contact.)
@@ -397,7 +397,7 @@
 
 
 
-<br>Project 12 - Tintin Space Rocket<br>
+<br><br>
 <br>Description
 <br>Link to image(s)
 
@@ -418,7 +418,24 @@
 <br>Pieces fit together fairly well, but utilized some superglue to enhance stability in case of getting bumped.
 
 
-]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Mon, 07 Apr 2025 20:34:10 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
+<br><br>
+<br>Description
+
+<br>For Kallax cube shelves, adjustable furniture legs, screw hole covers, and brackets to hold two shelves together:
+
+
+<br>Link to image(s): <a data-tooltip-position="top" aria-label="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/video_2025-08-12_05-19-10.mp4" rel="noopener nofollow" class="external-link" href="https://github.com/ujcs/UJ-3D-Printing/blob/main/images/video_2025-08-12_05-19-10.mp4" target="_blank">Timelapse video</a>
+<br>Link to STL files (if publicly available)
+
+<br>NA
+
+
+<br>Notes/Observations/Settings/Lessons Learned
+
+<br>*No real big issues, however, I did consider strength so increased the print quality from draft to strength and also bumped up the infill percentage.
+
+
+]]></description><link>http://3d.barnard.phd/05-example-projects/05.02-dr.-b-demo-prints.html</link><guid isPermaLink="false">05 - Example Projects/05.02 - Dr. B Demo Prints.md</guid><dc:creator><![CDATA[Dr. Jakob E. Barnard]]></dc:creator><pubDate>Tue, 12 Aug 2025 13:25:36 GMT</pubDate></item><item><title><![CDATA[05.03 - Student Projects]]></title><description><![CDATA[ 
  <br>Forthcoming!<br>Projects that have been printed on the 3D Printer here. Ideas to include:<br>
 <br>Description
 <br>Link to image(s)
